@@ -1,7 +1,7 @@
 # Diabetes
 Trabalho de Aprendizado de Máquina Supervisionado
 
-Link do Repositório:
+Link do Repositório: https://github.com/Zionlks/Diabetes
 
 Link do Dataset: https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
 
